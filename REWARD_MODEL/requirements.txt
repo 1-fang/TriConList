@@ -1,0 +1,10 @@
+torch==2.6.0
+transformers==4.50.3
+accelerate==1.6.0
+peft==0.15.1
+datasets==3.5.0
+numpy==1.26.4
+scipy==1.15.2
+safetensors>=0.4.5,<1
+pyarrow==19.0.1
+pandas==2.2.3
